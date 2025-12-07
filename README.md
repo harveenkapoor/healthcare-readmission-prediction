@@ -14,4 +14,3 @@ This project focuses on predicting hospital readmissions within 30 days using pa
 
 ## Status
 Sprint 2 – Data cleaning and exploratory analysis in progress.
-Add project README 
