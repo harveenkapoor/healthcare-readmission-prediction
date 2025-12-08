@@ -47,4 +47,4 @@ To run this project locally:
 The above workflow is how I generated all my work and results.
 
 ## Status
-Sprint 2 complete through modeling and evaluation.
+Sprint 2 completed through modeling and evaluation.
