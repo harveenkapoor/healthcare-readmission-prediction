@@ -45,6 +45,8 @@ models/logistic_regression.pkl
 
 This file contains the full preprocessing and modeling pipeline and can be loaded using `joblib` for future predictions or evaluation.
 
+Note: I could not save the Random Forest model due to GitHUb file size becoming too large to commit
+
 ## Data Access Notes
 
 Due to GitHub file size limits, you are unable to see the raw and cleaned data directly.
